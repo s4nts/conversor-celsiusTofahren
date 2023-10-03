@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgba(0, 128, 128, 0.418);
+    background-color: rgb(55, 55, 55);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    color: rgb(21, 21, 21);
+    color: whitesmoke;
     margin-bottom: 80px;
     font-size: 40px;
     text-align: left;
@@ -16,8 +16,8 @@ h1 {
 
 .result p {
     font-family: 'Courier New', Courier, monospace;
+    background-color: white;
     font-size: 20px;
-    background-color: skyblue;
     width: 300px;
     height: 40px;
 
@@ -31,7 +31,6 @@ h1 {
 input {
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
-    background-color: skyblue;
     width: 300px;
     height: 40px;
 
