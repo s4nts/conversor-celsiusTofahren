@@ -6,7 +6,7 @@ function calculate() {
 
     console.log(fahren);
 
-    result.innerHTML = `${celsius}°C equivalem à ${fahren}°F`
+    result.innerHTML = `${celsius}°C equivalem à ${fahren}°F`;
 
     if(celsius == 0) {
         alert('Adicione um número para iniciar!');
